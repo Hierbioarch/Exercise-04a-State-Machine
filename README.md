@@ -1,4 +1,3 @@
-```
 # Exercise-04a-State-Machine
 Exercise for MSCH-C220, 3 March 2021
 
@@ -16,4 +15,3 @@ None
 
 ## Created by 
 Alexander C. Kaliczak
-```
